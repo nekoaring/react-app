@@ -28,6 +28,11 @@
   color: #61dafb;
 }
 
+.Result {
+  font-size: 100%;
+  font-weight: bold;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
